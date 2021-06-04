@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1622798336 source:c:\users\anime\onedrive\documents\c\myp\src\aes.c
+	"../include/aes.h"
+
+1622797329 c:\users\anime\onedrive\documents\c\myp\include\aes.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1622798371 source:c:\users\anime\onedrive\documents\c\myp\src\wbmatrix\random.c
+	"../../include/WBMatrix/random.h"
+
+1622797329 c:\users\anime\onedrive\documents\c\myp\include\wbmatrix\random.h
+	"stdint.h"
+
+1622798351 source:c:\users\anime\onedrive\documents\c\myp\src\wbaes.c
+	"../include/wbaes.h"
+
+1622797329 c:\users\anime\onedrive\documents\c\myp\include\wbaes.h
+	"aes.h"
+	"WBMatrix/WBMatrix.h"
+
+1622798590 c:\users\anime\onedrive\documents\c\myp\include\wbmatrix\wbmatrix.h
+	"../WBMatrix/structure.h"
+	"../WBMatrix/random.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1622797329 c:\users\anime\onedrive\documents\c\myp\include\wbmatrix\structure.h
+	<stdint.h>
+
+1622798309 source:c:\users\anime\onedrive\documents\c\myp\src\wbmatrix\wbmatrix.c
+	"../../include/WBMatrix/WBMatrix.h"
+
+1622798566 source:c:\users\anime\onedrive\documents\c\myp\test\main.c
+	"../include/wbaes.h"
+
